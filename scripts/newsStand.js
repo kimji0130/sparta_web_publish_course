@@ -69,6 +69,8 @@ const clickOptions = () => {
 // 스와이퍼 옵션 참고
 // https://velog.io/@function_dh/JavaScript-Swiper-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C-%EA%B5%AC%ED%98%84
 
+
+//<!-- // group-issue-swiper 겹치는 현상 js 확인 필요 -->
 // group_issue_swiper 객체 생성
 const group_issue_swiper = new Swiper("#yna_rolling .group-issue-swiper", {
   direction: "vertical",
